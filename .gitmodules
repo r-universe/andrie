@@ -7,23 +7,29 @@
 	path = ggdendro
 	url = https://github.com/andrie/ggdendro
 	shallow = true
+	registered = true
 [submodule "miniCRAN"]
 	path = miniCRAN
 	url = https://github.com/andrie/minicran
 	shallow = true
+	registered = true
 [submodule "rfordummies"]
 	path = rfordummies
 	url = https://github.com/andrie/rfordummies
 	shallow = true
+	registered = true
 [submodule "rrd"]
 	path = rrd
 	url = https://github.com/andrie/rrd
 	shallow = true
+	registered = true
 [submodule "sss"]
 	path = sss
 	url = https://github.com/andrie/sss
 	shallow = true
+	registered = true
 [submodule "surveydata"]
 	path = surveydata
 	url = https://github.com/andrie/surveydata
 	shallow = true
+	registered = true
