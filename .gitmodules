@@ -8,6 +8,11 @@
 	url = https://github.com/andrie/ggdendro
 	shallow = true
 	registered = true
+[submodule "mailmerge"]
+	path = mailmerge
+	url = https://github.com/andrie/mailmerge
+	shallow = true
+	registered = true
 [submodule "miniCRAN"]
 	path = miniCRAN
 	url = https://github.com/andrie/minicran
