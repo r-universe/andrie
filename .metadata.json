@@ -1,0 +1,30 @@
+[
+  {
+    "package": "ggdendro",
+    "oncran": true
+  },
+  {
+    "package": "mailmerge",
+    "oncran": true
+  },
+  {
+    "package": "miniCRAN",
+    "oncran": true
+  },
+  {
+    "package": "rfordummies",
+    "oncran": true
+  },
+  {
+    "package": "rrd",
+    "oncran": true
+  },
+  {
+    "package": "sss",
+    "oncran": true
+  },
+  {
+    "package": "surveydata",
+    "oncran": true
+  }
+]
