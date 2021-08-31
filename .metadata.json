@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "rfordummies",
-    "oncran": true
-  },
-  {
     "package": "rrd",
     "oncran": true
   },

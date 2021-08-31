@@ -18,11 +18,6 @@
 	url = https://github.com/andrie/minicran
 	shallow = true
 	registered = true
-[submodule "rfordummies"]
-	path = rfordummies
-	url = https://github.com/andrie/rfordummies
-	shallow = true
-	registered = true
 [submodule "rrd"]
 	path = rrd
 	url = https://github.com/andrie/rrd
