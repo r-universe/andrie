@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "miniCRAN",
-    "oncran": true
+    "package": "miniCRAN"
   },
   {
     "package": "rrd",
