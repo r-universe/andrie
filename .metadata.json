@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "rrd",
-    "oncran": true
-  },
-  {
     "package": "sss",
     "oncran": true
   },
