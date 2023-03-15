@@ -1,10 +1,10 @@
 [
   {
-    "package": "ggdendro",
+    "package": "mailmerge",
     "oncran": true
   },
   {
-    "package": "mailmerge",
+    "package": "ggdendro",
     "oncran": true
   },
   {
