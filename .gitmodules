@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mailmerge"]
-	path = mailmerge
-	url = https://github.com/andrie/mailmerge
-	shallow = true
-	registered = true
 [submodule "ggdendro"]
 	path = ggdendro
 	url = https://github.com/andrie/ggdendro
+	shallow = true
+	registered = true
+[submodule "mailmerge"]
+	path = mailmerge
+	url = https://github.com/andrie/mailmerge
 	shallow = true
 	registered = true
 [submodule "miniCRAN"]
